@@ -3,7 +3,13 @@
 ##For more information, please check Tuya Developer Website.
 
 ##Experience
+
+
 ![](https://ftp.bmp.ovh/imgs/2021/04/34aa75f68bda4d39.png)
+
+
+
+
 If you need to embed the function of small program distribution network in your own small program, you can access the small program SDK to get your ticket information, then call the small program plug-in to complete the distribution network, and then call the interface to get device information again after the success of the distribution network.
 
 If you need to develop device control, scene linkage, automation and other functions in your own small program, you can call the corresponding interface through the small program SDK.
