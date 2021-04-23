@@ -1,9 +1,11 @@
-#This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.==
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+==
 
 ##For more information, please check Tuya Developer Website.
+-------
 
 ##Experience
-
+-------
 
 ![](https://ftp.bmp.ovh/imgs/2021/04/34aa75f68bda4d39.png)
 
@@ -17,7 +19,7 @@ If you need to develop device control, scene linkage, automation and other funct
 If you need a doodle public applet to support your device, please contact us. Public version of the small program you can scan the code below the TWO-DIMENSIONAL code experience：
 
 ##Demo
-
+-------
     ├── cloudfunctions             // Cloud Function directory
     │   ├── ty-service            // SDK
     ├── miniprogram                 // Applet home directory
